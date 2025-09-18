@@ -1,9 +1,3 @@
-title: Aldo Jacopo Virno
-url: "https://aldojacopovirnp.github.io"
-baseurl: ""
-footer: yes
-footer_url: "https://github.com/aldojacopovirno"
-footer_text: "© 2025 Nome Cognome 
-nav:                         
-  - name: "About"
-    link: "/"
+remote_theme: ankitsultana/researcher@gem
+plugins:
+  - jekyll-remote-theme
