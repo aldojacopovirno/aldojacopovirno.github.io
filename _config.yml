@@ -1,3 +1,22 @@
-remote_theme: ankitsultana/researcher@gem
-plugins:
-  - jekyll-remote-theme
+title: Aldo Jacopo Virno
+url: "aldojacopovirno.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/bk2dcradle/researcher"
+footer_text: "This is a jekyll based resume template made by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ # - name: "Research"
+ #   link: "research"
+ # - name: "Group"
+ #   link: "group"
