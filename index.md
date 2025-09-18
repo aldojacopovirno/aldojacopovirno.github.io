@@ -23,3 +23,5 @@ Selected works in machine learning, statistics, and quantitative modeling are av
 ## Get in touch
 
 - Email: [aldojacopo@gmail.com](mailto:aldojacopo@gmail.com)
+[1] [Linkedin](https://www.linkedin.com/in/aldo-jacopo-virno)
+[2] [You Tube](https://www.youtube.com/@aldojacopovirno)
