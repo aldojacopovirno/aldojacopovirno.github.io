@@ -1,45 +1,40 @@
 ---
 layout: default
+title: Aldo Jacopo Virno
 ---
 
-## About Me
+# Nome Cognome
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg" alt="Portrait">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+La mia ricerca riguarda <campi/temi>. Attualmente sono <ruolo> presso <istituzione/gruppo>, dove mi occupo di <2–3 righe su interessi attuali>.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Before
 
-## Research Interest
+- <Ruolo precedente> presso <Azienda/Istituto> [[link opzionale]](#)
+- <Co-fondatore/a di X, breve riga di impatto/finanziamenti> 
+- <Titolo accademico/posizione> presso <Università>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Blog
+
+Per riflessioni e note su ML visita il mio [Substack](https://<tuo-substack>).
+
+## YouTube
+
+Guarda il mio [canale YouTube](https://youtube.com/@<tuo-canale>) per deep-dive e tutorial.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Consulta il mio [Google Scholar](https://scholar.google.com/citations?user=<ID>) per l’elenco completo delle pubblicazioni.
 
-## Typography
+## Get in touch
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- Email: aldojacopo@gmail.com
+<small>Per assicurarti che legga il messaggio, inserisci “<frase-chiave>” nell’oggetto.</small>
 
-Here is a table
+## Links
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. [YouTube](https://youtube.com/@<tuo-canale>)
+2. [Google Scholar](https://scholar.google.com/citations?user=<ID>)
+3. [LinkedIn](https://www.linkedin.com/in/<username>/)
+4. [Substack](https://<tuo-substack>)
