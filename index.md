@@ -7,32 +7,17 @@ title: Aldo Jacopo Virno
 
 Curious by nature, drawn to everything that bridges theory and reality. I’m interested in understanding and navigating complex systems through scientific rigor. I see research as a form of exploration and science as a shared language for making sense of uncertainty.
 
+Currently, I am a BSc student in Statistics and Computer Science for Business, Finance, and Insurance at Università degli Studi di Napoli Parthenope, where my research spans quantitative finance, machine learning, and the physics of complex systems. I am particularly focused on developing algorithms that connect mathematical theory with real-world applications, from financial modeling to data-driven research across multiple domains.
+
 ## Before
 
-- <Ruolo precedente> presso <Azienda/Istituto> [[link opzionale]](#)
-- <Co-fondatore/a di X, breve riga di impatto/finanziamenti> 
-- <Titolo accademico/posizione> presso <Università>
+- Former Head of Research at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/), where I guided projects at the intersection of finance, technology, and data science. My role focused on shaping research directions, coordinating interdisciplinary efforts, and translating advanced quantitative methods into practical tools for financial innovation.
+- Ex-Founder & CTO of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), an independent initiative dedicated to algorithmic research and the application of machine learning to complex problems. At GreenWall, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications across finance, insurance, and risk analysis.
 
-## Blog
+## Research Projects
 
-Per riflessioni e note su ML visita il mio [Substack](https://<tuo-substack>).
-
-## YouTube
-
-Guarda il mio [canale YouTube](https://youtube.com/@<tuo-canale>) per deep-dive e tutorial.
-
-## Publications
-
-Consulta il mio [Google Scholar](https://scholar.google.com/citations?user=<ID>) per l’elenco completo delle pubblicazioni.
+Selected works in machine learning, statistics, and quantitative modeling are available on my [GitHub](https://github.com/aldojacopovirno).
 
 ## Get in touch
 
-- Email: aldojacopo@gmail.com
-<small>Per assicurarti che legga il messaggio, inserisci “<frase-chiave>” nell’oggetto.</small>
-
-## Links
-
-1. [YouTube](https://youtube.com/@<tuo-canale>)
-2. [Google Scholar](https://scholar.google.com/citations?user=<ID>)
-3. [LinkedIn](https://www.linkedin.com/in/<username>/)
-4. [Substack](https://<tuo-substack>)
+- Email: [aldojacopo@gmail.com](mailto:aldojacopo@gmail.com)
