@@ -3,11 +3,9 @@ layout: default
 title: Aldo Jacopo Virno
 ---
 
-# Nome Cognome
-
 <img class="profile-picture" src="me.jpg" alt="Portrait">
 
-La mia ricerca riguarda <campi/temi>. Attualmente sono <ruolo> presso <istituzione/gruppo>, dove mi occupo di <2–3 righe su interessi attuali>.
+Curious by nature, drawn to everything that bridges theory and reality. I’m interested in understanding and navigating complex systems through scientific rigor. I see research as a form of exploration and science as a shared language for making sense of uncertainty.
 
 ## Before
 
