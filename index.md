@@ -10,7 +10,7 @@ Currently, I am a **BSc student in Statistics and Computer Science for Business,
 ## Before
 
 - Former **Head of Research** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/), where I guided projects at the intersection of finance, technology, and data science. My role focused on shaping research directions, coordinating interdisciplinary efforts, and translating advanced quantitative methods into practical tools for financial innovation.
-- **Ex-Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), an independent initiative dedicated to algorithmic research and the application of machine learning to complex problems. At GreenWall, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications across finance, insurance, and risk analysis.
+- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), an independent initiative dedicated to algorithmic research and the application of machine learning to complex problems. At GreenWall, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications across finance, insurance, and risk analysis.
 
 ## Research Projects
 
