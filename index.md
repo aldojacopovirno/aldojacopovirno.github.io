@@ -20,7 +20,7 @@ I am particularly focused on developing algorithms that connect mathematical the
 
 Selected works in machine learning, statistics, and quantitative modeling are available on my [GitHub](https://github.com/aldojacopovirno).
 
-## Get in touch
+## Get in Touch
 
 - Email: [aldojacopo@gmail.com](mailto:aldojacopo@gmail.com)
  
