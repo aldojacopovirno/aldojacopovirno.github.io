@@ -7,7 +7,7 @@ title: Aldo Jacopo Virno
 
 ## What I do?
 
-Currently, I am a **BSc student in Statistics and Computer Science for Business, Finance, and Insurance** at University of Naples "_Parthenope_", where my research spans quantitative finance, machine learning, and applied statistics. 
+Currently, I am a [**BSc student in Statistics and Computer Science for Business, Finance, and Insurance**](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_", where my research spans quantitative finance, machine learning, and applied statistics. 
 
 I am particularly focused on developing algorithms that connect mathematical theory with real-world applications, from financial modeling to data-driven research across multiple domains.
 
