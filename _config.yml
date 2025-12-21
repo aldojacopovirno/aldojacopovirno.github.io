@@ -1,0 +1,21 @@
+title: Aldo Jacopo Virno
+url: "https://aldojacopovirno.github.io"
+baseurl: ""
+
+markdown: kramdown
+future: true
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Blog"
+   link: "/blog"
+ # - name: "Research"
+ #   link: "research"
+ # - name: "Group"
+ #   link: "group"

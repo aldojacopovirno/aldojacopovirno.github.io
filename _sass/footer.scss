@@ -1,0 +1,47 @@
+/*
+ * Footer
+ */
+
+.site-footer {
+    margin-top: 40px;
+    padding: 0;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-line {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 0 0 30px 0;
+}
+
+.footer-text {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.footer-text p {
+    margin: 0;
+    font-size: 13px;
+    color: #666;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .site-footer {
+        margin-top: 30px;
+    }
+
+    .footer-text {
+        padding-bottom: 30px;
+    }
+
+    .footer-text p {
+        font-size: 12px;
+    }
+}
