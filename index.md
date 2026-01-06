@@ -7,9 +7,11 @@ title: Aldo Jacopo Virno
 
 ## What I do?
 
-Currently, I am a [BSc student in Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_", where my research spans quantitative finance, machine learning, and applied statistics. 
+Currently, I am a [BSc student in Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_", where my research spans quantitative finance, machine learning, and applied statistics.
 
-I am particularly focused on developing algorithms that connect mathematical theory with real-world applications, from financial modeling to data-driven research across multiple domains.
+Alongside my studies, I serve as President of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/). Through advocacy, collaboration, and hands-on initiatives, we create a space where students can explore artificial intelligence, data science, and quantitative methods while contributing to the broader goal of shared knowledge and collective growth.
+
+My current research interests lie at the intersection of deep learning and quantum system modeling, where I explore how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with real-world applications, from financial modeling to data-driven research across multiple domains.
 
 ## Before
 
