@@ -11,12 +11,12 @@ Currently, I am a **BSc Student** in [Statistics and Computer Science for Busine
 
 Alongside my studies, I serve as **President** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/). Through advocacy, collaboration, and hands-on initiatives, we create a space where students can explore artificial intelligence, data science, and quantitative methods while contributing to the broader goal of shared knowledge and collective growth.
 
-My current research interests lie at the intersection of deep learning and quantum system modeling, where I explore how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with real-world applications.
+My current research interests lie at the intersection of deep learning and quantum system modeling, where I investigate how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with applied solutions.
 
 ## Before
 
-- Former **Head of Research Team** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/), where I guided projects at the intersection of finance, technology, and data science. My role focused on shaping research directions, coordinating interdisciplinary efforts, and translating advanced quantitative methods into practical tools for financial innovation.
-- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), an independent initiative dedicated to algorithmic research and the application of machine learning to complex problems. At GreenWall, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications across finance, insurance, and risk analysis.
+- Former **Head of Research Team** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/) in collab with [Unipol Group S.p.A.](https://www.unipol.com/en), where I led research projects at the convergence of insure-tech and artificial intelligence. My work focused on developing a graph-based risk matching system and a cloud-based insurance advisory assistant, utilizing RAG frameworks with fine-tuned models and semantic vector databases on Azure to create practical applications for the insurance and fintech sectors.
+- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), a startup dedicated to algorithmic research and the application of machine learning to complex problems. At GWR, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications.
 
 ## Research Projects
 
