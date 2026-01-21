@@ -4,7 +4,6 @@ title: Aldo Jacopo Virno - Quantitative Research & Machine Learning
 description: >-
   BSc Student in Statistics and Computer Science researching quantitative finance,
   machine learning, and quantum systems. President of Parthenope Machine Learning Society.
-image: /assets/images/profile.jpg
 seo:
   type: Person
 ---

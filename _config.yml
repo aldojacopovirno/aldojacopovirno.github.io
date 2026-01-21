@@ -19,8 +19,9 @@ social:
     - https://www.youtube.com/@aldojacopovirno
 
 # Open Graph Defaults
-og_image: /assets/images/og-default.jpg
-profile_picture: /assets/images/profile.jpg
+# TODO: Add these images when ready:
+# og_image: /assets/images/og-default.jpg (1200x630px)
+# profile_picture: /assets/images/profile.jpg (400x400px min)
 
 # Additional SEO
 lang: en_US
