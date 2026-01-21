@@ -2,10 +2,41 @@ title: Aldo Jacopo Virno
 url: "https://aldojacopovirno.github.io"
 baseurl: ""
 
+# SEO Settings
+description: >-
+  Aldo Jacopo Virno - BSc Student in Statistics and Computer Science. Research in quantitative finance,
+  machine learning, and quantum systems modeling. President of Parthenope Machine Learning Society.
+
+author:
+  name: Aldo Jacopo Virno
+
+# Social Profiles (Schema.org)
+social:
+  name: Aldo Jacopo Virno
+  links:
+    - https://github.com/aldojacopovirno
+    - https://www.linkedin.com/in/aldo-jacopo-virno
+    - https://www.youtube.com/@aldojacopovirno
+
+# Open Graph Defaults
+og_image: /assets/images/og-default.jpg
+profile_picture: /assets/images/profile.jpg
+
+# Additional SEO
+lang: en_US
+timezone: Europe/Rome
+
+# Favicon
+favicon: /favicon.ico
+favicon_location: /favicon.ico
+
 markdown: kramdown
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
 future: true
 #ins_logo: "./bits-logo.png"
 

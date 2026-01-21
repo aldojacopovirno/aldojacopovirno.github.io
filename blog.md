@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Blog
+title: Blog - Essays on Rationality, Statistics & Machine Learning
+description: >-
+  Thoughts on quantitative methods, statistical inference, machine learning,
+  and the philosophy of prediction and uncertainty.
+permalink: /blog/
 ---
 
 ## Blog

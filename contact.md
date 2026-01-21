@@ -1,6 +1,9 @@
 ---
 layout: default
+title: Contact Aldo Jacopo Virno
+description: Get in touch for research collaboration, speaking opportunities, or inquiries about machine learning and quantitative methods.
 is_contact: true
+permalink: /contact/
 ---
 
 * Email: [foo@xyz.com](mailto:foo@xyz.com)

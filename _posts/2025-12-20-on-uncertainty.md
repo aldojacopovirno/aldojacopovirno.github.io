@@ -5,6 +5,13 @@ date: 2025-12-21
 description: "When reality contradicts the model: lessons from a 13th-century friar on the nature of prediction and the embrace of epistemic humility."
 cover_image: /assets/images/cover_02.jpg
 cover_image_author: Pieter Bruegel de Oude - "The Tower of Babel" (1563)
+cover_image_alt: "Pieter Bruegel's Tower of Babel painting depicting the massive incomplete tower with surrounding landscape"
+tags: [philosophy, statistics, prediction, uncertainty, epistemology, modeling, stochastic-systems]
+categories: [essays]
+author: Aldo Jacopo Virno
+image: /assets/images/cover_02.jpg
+seo:
+  type: BlogPosting
 ---
 
 ## I.
