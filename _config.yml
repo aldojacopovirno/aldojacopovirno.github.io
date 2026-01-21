@@ -3,6 +3,9 @@ url: "https://aldojacopovirno.github.io"
 baseurl: ""
 
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
 future: true
 #ins_logo: "./bits-logo.png"
 
