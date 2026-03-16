@@ -29,6 +29,6 @@ Selected works in **machine learning**, **statistics**, and **quantitative model
 
 ## Get in Touch
 
-[1] [GitHub](https://www.github.com.com/aldojacopovirno)
+[1] [GitHub](https://www.github.com/aldojacopovirno)
 [2] [Linkedin](https://www.linkedin.com/in/aldo-jacopo-virno)
 [3] [You Tube](https://www.youtube.com/@aldojacopovirno)
