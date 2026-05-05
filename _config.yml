@@ -19,9 +19,13 @@ social:
     - https://www.youtube.com/@aldojacopovirno
 
 # Open Graph Defaults
-# TODO: Add these images when ready:
-# og_image: /assets/images/og-default.jpg (1200x630px)
-# profile_picture: /assets/images/profile.jpg (400x400px min)
+image: /images/banner.jpeg
+logo: /bits-logo.png
+twitter:
+  card: summary_large_image
+
+# Google Verification
+google_site_verification: 3SI9ZXUjosiwm72DIjFmVpRY8xmhSEjwhYAfA0tfW8Q
 
 # Additional SEO
 lang: en_US

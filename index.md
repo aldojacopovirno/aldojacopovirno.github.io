@@ -6,6 +6,7 @@ description: >-
   machine learning, and quantum systems. President of Parthenope Machine Learning Society.
 seo:
   type: Person
+image: /images/banner.jpeg
 ---
 
 > Curious by nature, drawn to everything that bridges theory and reality. I’m interested in understanding and navigating complex systems through scientific rigor. I see research as a form of exploration and science as a shared language for making sense of uncertainty.
