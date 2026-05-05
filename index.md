@@ -12,16 +12,18 @@ seo:
 
 ## What I do?
 
-Currently, I am a **BSc Student** in [Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_", where my research spans quantitative finance, machine learning, and applied statistics.
+Currently, I am a **BSc Student** in [Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_". 
 
-Alongside my studies, I serve as **President** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/). Through advocacy, collaboration, and hands-on initiatives, we create a space where students can explore artificial intelligence, data science, and quantitative methods while contributing to the broader goal of shared knowledge and collective growth.
+Alongside my studies, I am a **Cloud Computing Trainee** at [Amazon Web Services (AWS)](https://aws.amazon.com/), where I architect and deploy cloud-native solutions. My work focuses on designing computing architectures to support compute intensive workloads. 
 
-My current research interests lie at the intersection of deep learning and quantum system modeling, where I investigate how neural architectures can advance our understanding of quantum phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with applied solutions.
+Moreover, as **President** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/), I lead a community where students explore artificial intelligence, data science, and quantitative methods through hands-on projects and open collaboration.
+
+My current research interests lie at the intersection of deep learning and quantum system modeling, where I investigate how bayesian architectures can advance our understanding of complex phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with applied solutions. 
 
 ## Before
 
-- Former **Head of Research Team** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/) in collab with [Unipol Group S.p.A.](https://www.unipol.com/en), where I led research projects at the convergence of insure-tech and artificial intelligence. My work focused on developing a graph-based risk matching system and a cloud-based insurance advisory assistant, utilizing RAG frameworks with fine-tuned models and semantic vector databases on Azure to create practical applications for the insurance and fintech sectors.
-- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research), a startup dedicated to algorithmic research and the application of machine learning to complex problems. At GWR, I led the development of research frameworks, explored novel modeling approaches, and oversaw projects designed to bridge theoretical insights with real-world applications.
+- Former **Head of Research Team** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/) with [Unipol S.p.A.](https://www.unipol.com/en). I directed the design of a graph-theoretic risk-matching system for insurance portfolio analysis, and architected an Azure RAG pipeline integrating fine-tuned LLMs with semantic vector databases for domain-specific corpora retrieval.
+- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research). I developed probabilistic financial time-series models using Hidden Markov Models for latent regime identification and Merton Jump-Diffusion for discontinuous price dynamics, validated empirically across multiple asset classes.
 
 ## Research Projects
 
