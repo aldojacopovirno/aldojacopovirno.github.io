@@ -23,3 +23,6 @@ permalink: /research/
 
 * [**73rd meeting of the EURO Working Group for Commodities and Financial Modelling**](https://disaq.uniparthenope.it/73-meeting-ewgcfm/)
   * *University of Napoli 'Parthenope', Naples, Italy ~ April 22, 2026*
+
+* [**Napoli Fintech Lab PoC & Pitch Day**](https://disaq.uniparthenope.it/fintechlab/)
+  * *University of Napoli 'Parthenope', Naples, Italy ~ July 4, 2025*
