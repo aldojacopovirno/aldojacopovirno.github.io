@@ -54,7 +54,5 @@ sass:
 nav:
  - name: "Blog"
    link: "/blog"
- # - name: "Research"
- #   link: "research"
- # - name: "Group"
- #   link: "group"
+ - name: "Research"
+   link: "/research"
