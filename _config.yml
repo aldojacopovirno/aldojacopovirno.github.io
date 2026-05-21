@@ -53,6 +53,6 @@ sass:
 
 nav:
  - name: "Blog"
-   link: "/blog"
+   link: "/blog/"
  - name: "Research"
-   link: "/research"
+   link: "/research/"

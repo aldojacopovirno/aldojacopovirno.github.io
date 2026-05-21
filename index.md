@@ -33,7 +33,7 @@ My current research interests lie at the intersection of deep learning and quant
 
 ## Research Projects
 
-Selected works in **machine learning**, **statistics**, and **quantitative modeling** are available on my [GitHub](https://github.com/aldojacopovirno).
+Selected works in **machine learning**, **statistics**, and **quantitative modeling** are available on the [Research](/research/) page and on [GitHub](https://github.com/aldojacopovirno).
 
 ## Get in Touch
 
