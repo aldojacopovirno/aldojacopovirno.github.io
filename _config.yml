@@ -4,8 +4,8 @@ baseurl: ""
 
 # SEO Settings
 description: >-
-  Aldo Jacopo Virno - BSc Student in Statistics and Computer Science. Cloud Computing Trainee at AWS.
-  Research in complex systems, bayesian architectures, and quantitative modeling. President of Parthenope Machine Learning Society.
+  Exploring reinforcement learning, reasoning, post-training, and optimization.
+  Honours student at Sant’Anna and MSc student at the University of Pisa.
 
 author:
   name: Aldo Jacopo Virno
@@ -30,6 +30,9 @@ google_site_verification: 3SI9ZXUjosiwm72DIjFmVpRY8xmhSEjwhYAfA0tfW8Q
 # Additional SEO
 lang: en_US
 timezone: Europe/Rome
+
+# Footer "Last updated" date (YYYY-MM-DD); override per page with `last_updated` in front matter
+last_updated: 2026-11-13
 
 # Favicon
 favicon: /favicon.ico

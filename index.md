@@ -1,42 +1,49 @@
 ---
 layout: default
-title: Aldo Jacopo Virno - Quantitative Research & Machine Learning
-description: >-
-  BSc Student in Statistics and Computer Science researching quantitative finance,
-  machine learning, and quantum systems. President of Parthenope Machine Learning Society.
+title: Aldo Jacopo Virno - Data Science & Machine Learning
 seo:
   type: Person
 image: /images/banner.jpeg
 ---
 
-> Curious by nature, drawn to everything that bridges theory and reality. I’m interested in understanding and navigating complex systems through scientific rigor. I see research as a form of exploration and science as a shared language for making sense of uncertainty.
+> Curious by nature, drawn to everything that bridges theory and reality.
 
 <div class="post-cover-image">
-    <img src="images/banner.jpeg" alt="Home Banner" title="M.C. Escher - Relativity (1953)">
+    <img src="{{ '/images/banner.jpeg' | relative_url }}" alt="Figures climb staircases in different directions in Escher’s Relativity">
 </div>
 <p class="post-cover-caption">M.C. Escher - Relativity (1953)</p>
 
-## What I do?
+## What I do
 
-Currently, I am a **BSc Student** in [Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at University of Naples "_Parthenope_". 
+I am an **Allievo** in the II Level Honours Programme in [Scienze dei Dati](https://www.santannapisa.it/en) (Data Science) at the **Sant’Anna School of Advanced Studies**. 
 
-Alongside my studies, I am a **Cloud Computing Trainee** at [Amazon Web Services (AWS)](https://aws.amazon.com/), where I architect and deploy cloud-native solutions. My work focuses on designing computing architectures to support compute intensive workloads. 
+Together with that, I am pursuing an **MSc** in [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at the **University of Pisa**.
 
-Moreover, as **President** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/), I lead a community where students explore artificial intelligence, data science, and quantitative methods through hands-on projects and open collaboration.
-
-My current research interests lie at the intersection of deep learning and quantum system modeling, where I investigate how bayesian architectures can advance our understanding of complex phenomena. More broadly, I am focused on developing algorithms that connect mathematical theory with applied solutions. 
+Lately, I’ve been experimenting with **reinforcement learning and reasoning**, **post-training**, **optimization** and (more broadly) **XAI**. Given how easily I get hooked on things, I’m still finding my direction in research, and I’m curious to see which questions stay with me.
 
 ## Before
 
-- Former **Head of Research Team** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/) with [Unipol S.p.A.](https://www.unipol.com/en). I directed the design of a graph-theoretic risk-matching system for insurance portfolio analysis, and architected an Azure RAG pipeline integrating fine-tuned LLMs with semantic vector databases for domain-specific corpora retrieval.
-- Ex **Founder & CTO** of [GreenWall Research](https://www.linkedin.com/company/greenwall-research). I developed probabilistic financial time-series models using Hidden Markov Models for latent regime identification and Merton Jump-Diffusion for discontinuous price dynamics, validated empirically across multiple asset classes.
+I earned my **BSc** in [Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at the University of Naples “Parthenope”. In my undergraduate thesis, I studied (if and) how Bayesian neural networks can be used for the tomography of multi-qubit quantum systems. During my degree, I also served as **president** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/), where, together with other students, I tried to convince people that ML is less (black) magic than it looks.
 
-## Research Projects
+Toward the end of my bachelor’s, I completed a **training programme** in cloud computing with [Amazon Web Services (AWS)](https://aws.amazon.com). In the AWS Academy lab, I designed serverless applications using S3 for storage and Lambda for processing, and I deployed machine learning workloads on SageMaker.
 
-Selected works in **machine learning**, **statistics**, and **quantitative modeling** are available on the [Research](/research/) page and on [GitHub](https://github.com/aldojacopovirno).
+Previously, I was the **head of research** at [Napoli Fintech Lab](https://disaq.uniparthenope.it/fintechlab/), leading a team in collaboration with [Unipol](https://www.unipol.com/en) on insurance portfolio recommendation. We designed a graph-based system to match risks within a portfolio. I also worked on the engineering of a graph-RAG architecture integrated into it.
 
-## Get in Touch
+(In my 'very' young anti-everything period) I founded [GreenWall Research](https://www.linkedin.com/company/greenwall-research) and served as **chief technology officer**. Specifically, I was responsible for the alpha research division and also contributed to the development of optimal order execution algorithms.
 
-[1] [GitHub](https://www.github.com/aldojacopovirno)
-[2] [Linkedin](https://www.linkedin.com/in/aldo-jacopo-virno)
-[3] [You Tube](https://www.youtube.com/@aldojacopovirno)
+## Something (maybe) interesting
+
+I keep a list of 'relevant' things that I did on the [Research]({{ '/research/' | relative_url }}) page.
+
+Besides that, I also maintain a [blog]({{ '/blog/' | relative_url }}) where I (sporadically) make a fuss over nothing.
+
+I’m also a mentee and a (proud) ambassador of [Lead The Future](https://leadthefuture.tech), an Italian non-profit that pairs STEM students with mentors from top universities, research centres and companies around the globe.
+
+Sooner or later, I’ll finish building a home-made model rocket together with my friend Andrea. I need to climb Monte Bianco before next September, otherwise I’ll lose a bet. I really like pizza (despite coming from the motherland of pizza, I prefer the American style, but I’d rather not open this parenthesis).
+
+
+## Elsewhere
+
+[1] [GitHub](https://github.com/aldojacopovirno)
+[2] [LinkedIn](https://www.linkedin.com/in/aldo-jacopo-virno)
+[3] [YouTube](https://www.youtube.com/@aldojacopovirno)

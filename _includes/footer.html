@@ -3,6 +3,10 @@
         <hr class="footer-line">
         <div class="footer-text">
             <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+            {% assign last_updated = page.last_updated | default: site.last_updated %}
+            {% if last_updated %}
+            <p>Last updated: <time datetime="{{ last_updated | date: "%Y-%m" }}">{{ last_updated | date: "%B, %Y" }}</time></p>
+            {% endif %}
         </div>
     </div>
 </footer>
