@@ -15,15 +15,17 @@ image: /images/banner.jpeg
 
 ## What I do
 
-I am an **Allievo** in the II Level Honours Programme in [Scienze dei Dati](https://www.santannapisa.it/en) (Data Science) at the **Sant’Anna School of Advanced Studies**. 
+I am an *Allievo* in the **II Level Honours Programme** in [Data Science](https://www.santannapisa.it/en) at the **Sant’Anna School of Advanced Studies**. 
 
 Together with that, I am pursuing an **MSc** in [Data Science and Business Informatics](https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/) at the **University of Pisa**.
 
 Lately, I’ve been experimenting with **reinforcement learning and reasoning**, **post-training**, **optimization** and (more broadly) **XAI**. Given how easily I get hooked on things, I’m still finding my direction in research, and I’m curious to see which questions stay with me.
 
-## Before
+## Before all this
 
 I earned my **BSc** in [Statistics and Computer Science for Business, Finance, and Insurance](https://orienta.uniparthenope.it/laurea-triennale/statistica-informatica-azienda-finanza-assicurazioni/) at the University of Naples “Parthenope”. In my undergraduate thesis, I studied (if and) how Bayesian neural networks can be used for the tomography of multi-qubit quantum systems. During my degree, I also served as **president** of the [Parthenope Machine Learning Society](https://aldojacopovirno.github.io/parthenope-mls/), where, together with other students, I tried to convince people that ML is less (black) magic than it looks.
+
+## Along the way
 
 Toward the end of my bachelor’s, I completed a **training programme** in cloud computing with [Amazon Web Services (AWS)](https://aws.amazon.com). In the AWS Academy lab, I designed serverless applications using S3 for storage and Lambda for processing, and I deployed machine learning workloads on SageMaker.
 
