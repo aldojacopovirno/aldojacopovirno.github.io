@@ -42,10 +42,3 @@ Besides that, I also maintain a [blog]({{ '/blog/' | relative_url }}) where I (s
 I’m also a mentee and a (proud) ambassador of [Lead The Future](https://leadthefuture.tech), an Italian non-profit that pairs STEM students with mentors from top universities, research centres and companies around the globe.
 
 Sooner or later, I’ll finish building a home-made model rocket together with my friend Andrea. I need to climb Monte Bianco before next September, otherwise I’ll lose a bet. I really like pizza (despite coming from the motherland of pizza, I prefer the American style, but I’d rather not open this parenthesis).
-
-
-## Elsewhere
-
-[1] [GitHub](https://github.com/aldojacopovirno)
-[2] [LinkedIn](https://www.linkedin.com/in/aldo-jacopo-virno)
-[3] [YouTube](https://www.youtube.com/@aldojacopovirno)

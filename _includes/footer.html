@@ -1,12 +1,31 @@
 <footer class="site-footer">
     <div class="footer-content">
         <hr class="footer-line">
+        <nav class="footer-links" aria-label="Contacts">
+            <span class="footer-email obf-email">aldo.virno [at] santannapisa [dot] it</span>
+            <span aria-hidden="true">·</span>
+            <a href="https://github.com/aldojacopovirno" rel="noopener">GitHub</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://www.linkedin.com/in/aldo-jacopo-virno" rel="noopener">LinkedIn</a>
+            <span aria-hidden="true">·</span>
+            <a href="https://www.youtube.com/@aldojacopovirno" rel="noopener">YouTube</a>
+        </nav>
         <div class="footer-text">
             <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
             {% assign last_updated = page.last_updated | default: site.last_updated %}
             {% if last_updated %}
-            <p>Last updated: <time datetime="{{ last_updated | date: "%Y-%m" }}">{{ last_updated | date: "%B, %Y" }}</time></p>
+            <p>Last updated in <time datetime="{{ last_updated | date: "%Y-%m" }}">{{ last_updated | date: "%B %Y" }}</time></p>
             {% endif %}
         </div>
     </div>
 </footer>
+<script>
+  document.querySelectorAll('.obf-email').forEach(function (el) {
+    var addr = el.textContent.replace(/\s*\[at\]\s*/, '@').replace(/\s*\[dot\]\s*/g, '.').trim();
+    var a = document.createElement('a');
+    a.href = 'mailto:' + addr;
+    a.textContent = el.textContent;
+    a.className = el.className;
+    el.replaceWith(a);
+  });
+</script>

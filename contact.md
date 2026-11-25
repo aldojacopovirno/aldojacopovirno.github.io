@@ -8,6 +8,7 @@ permalink: /contact/
 
 ## Public Profiles
 
-[1] [GitHub](https://github.com/aldojacopovirno)
-[2] [LinkedIn](https://www.linkedin.com/in/aldo-jacopo-virno)
-[3] [YouTube](https://www.youtube.com/@aldojacopovirno)
+[1] <span class="obf-email">aldo.virno [at] santannapisa [dot] it</span>
+[2] [GitHub](https://github.com/aldojacopovirno)
+[3] [LinkedIn](https://www.linkedin.com/in/aldo-jacopo-virno)
+[4] [YouTube](https://www.youtube.com/@aldojacopovirno)
